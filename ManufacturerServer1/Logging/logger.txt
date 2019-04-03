@@ -1,0 +1,12 @@
+128  19RPM 98% 42°C window:open
+129  19RPM 98% 42°C window:closed
+130  845RPM 98% 42°C window:closed
+131  845RPM 98% 31°C window:closed
+132  845RPM 88% 31°C window:closed
+133  845RPM 88% 31°C window:closed
+134  973RPM 88% 31°C window:closed
+135  973RPM 88% 17°C window:closed
+136  973RPM 75% 17°C window:closed
+137  973RPM 75% 17°C window:closed
+138  18RPM 75% 17°C window:closed
+139  18RPM 75% 86°C window:closed

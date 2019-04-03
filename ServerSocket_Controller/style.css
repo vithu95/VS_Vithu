@@ -1,0 +1,22 @@
+html{
+    background-color: dimgrey;
+    color:black;
+    font-family: Calibri;
+    font-size: 1.45em;
+    margin: 1em;
+    float:left;
+}
+
+table{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 75%;
+    padding: 15px;
+    align-self: center;
+}
+
+tr:nth-child(even){
+    background-color: #b1aeae;
+}
+
+
